@@ -20,7 +20,7 @@ I found the kids ignored the boring wordy bits, and jumped straight to the code,
 - *thread* Teleport + Magic Sword. Adds classes and multithreading. Use the magic sword to set the position to teleport to.
 
 ## The Challenges 
-Somewhat tougher challenges.
+Challenges with little guidance. Some a bit tougher.
 
 - *backtracker* Minecraft. Keep track of where you walk and then backtrack. Lists.
 - *conveyor*  Minecraft. Build a moving walkway.
