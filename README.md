@@ -1,4 +1,4 @@
-# Worksheets for the python projects. 
+# Worksheets for the Python projects. 
 
 These are the worksheets for the Python programs in the "pi" repository. The folder has the LibreOffice docs and exported PDFs for convenience.
   
